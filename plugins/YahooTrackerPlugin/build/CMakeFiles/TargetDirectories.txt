@@ -1,0 +1,3 @@
+/home/thuyetpq/workspace/m9/ObjectTracking/plugins/YahooTrackerPlugin/build/CMakeFiles/YahooTracker.dir
+/home/thuyetpq/workspace/m9/ObjectTracking/plugins/YahooTrackerPlugin/build/CMakeFiles/edit_cache.dir
+/home/thuyetpq/workspace/m9/ObjectTracking/plugins/YahooTrackerPlugin/build/CMakeFiles/rebuild_cache.dir
